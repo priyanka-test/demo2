@@ -1,0 +1,60 @@
+{
+  
+"fieldsen":[
+	{
+  "fieldId":1,
+	"fieldName":"numberOfRoles",
+	"fieldText":"Number Of Roles",
+	"fieldType":"select"
+  },
+	{
+  "fieldId":2,
+	"fieldName":"employeeclass",
+	"fieldText":"Employee Class",
+	"fieldType":"text"
+  },
+	{
+  "fieldId":3,
+	"fieldName":"rolestartdate",
+	"fieldText":"Role start date",
+	"fieldType":"date"
+  },
+	{
+  "fieldId":4,
+	"fieldName":"city",
+	"fieldText":"City",
+	"fieldType":"select"
+  },
+	{
+  "fieldId":5,
+	"fieldName":"bflevel3name",
+	"fieldText":"BF level 3 name",
+	"fieldType":"text"
+  }
+],
+	"fieldschn":[
+	{"fieldId":1,
+	"fieldName":"numberOfRoles",
+	"fieldText":"角色数量",
+	"fieldType":"select"},
+	{"fieldId":2,
+	"fieldName":"employeeclass",
+	"fieldText":"员工阶层",
+	"fieldType":"text"},
+	{"fieldId":3,
+	"fieldName":"rolestartdate",
+	"fieldText":"角色开始日期",
+	"fieldType":"date"},
+	{"fieldId":4,
+	"fieldName":"city",
+	"fieldText":"市",
+	"fieldType":"select"},
+	{"fieldId":5,
+	"fieldName":"bflevel3name",
+	"fieldText":"BF 3级名称",
+	"fieldType":"text"}
+],
+  "profile": {
+    "name": "typicode"
+  }
+}
