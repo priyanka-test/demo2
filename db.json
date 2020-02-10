@@ -32,7 +32,7 @@
 	"fieldType":"text"
   }
 ],
-	"langzh":
+	"langzh":[
 	{
 	"Number Of Roles":"角色数量",
 	
@@ -43,8 +43,8 @@
 	"City":"市",
 	
 	"BF level 3 name":"BF 3级名称"}
-,
-	"langen":
+],
+	"langen":[
 	{
 	"Number Of Roles":"Number Of Roles",
 	
@@ -55,7 +55,7 @@
 	"City":"City",
 	
 	"BF level 3 name":"BF level 3 name"}
-,
+],
   "profile": {
     "name": "typicode"
   }
